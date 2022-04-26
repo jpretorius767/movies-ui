@@ -1,7 +1,6 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <h4>Movies Assessment:</h4>
   </nav>
   <router-view/>
 </template>
